@@ -1,6 +1,6 @@
-#meteor-react-poc
+# meteor-react-poc
 
-##Getting started
+## Getting started
 
 install meteorJs
 
